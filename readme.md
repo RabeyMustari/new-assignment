@@ -7,10 +7,7 @@ A responsive conference landing page developed with **HTML5** and **CSS3**. This
 ## 🌐 Live Demo
 
 **Live Site:**  
-https://your-live-site.netlify.app/
-
-**Repository:**  
-https://github.com/your-username/devconf-2026
+file:///C:/HT%20Docs/Assingment/index.html
 
 ---
 
@@ -76,7 +73,7 @@ DevConf-2026/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/devconf-2026.git
+git clone https://github.com/RabeyMustari/new-assignment.git
 ```
 
 Move to the project directory:
@@ -101,7 +98,7 @@ The layout is optimized for:
 
 ## 👨‍💻 Author
 
-**Imran Hashmi**
+**Mst Rabey Mustari**
 
 ---
 
