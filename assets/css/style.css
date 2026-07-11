@@ -1,0 +1,56 @@
+* {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+
+body {
+      font-family: 'Arimo', Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      color: #333;
+}
+
+.header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1rem 3rem;
+}
+
+.menuitems {
+      display: flex;
+      gap: 1rem;
+}
+
+.menuitem ul {
+      list-style: none;
+      display: flex;
+      gap: 1rem;
+}
+
+.menuitem ul li a {
+      text-decoration: none;
+      color: #333;
+      font-weight: 500;
+      transition: color 0.3s ease;
+}
+
+.menuitem ul li a:hover {
+      color: #1D4ED8;
+}
+
+.register-button {
+      padding: 0.5rem 1rem;
+      background-color: #1D4ED8;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+}
+
+.register-button a {
+      text-decoration: none;
+      color: #fff;
+}
